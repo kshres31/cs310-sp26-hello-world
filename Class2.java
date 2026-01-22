@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Karun Shrestha
  */
 
 public class Class2 {
